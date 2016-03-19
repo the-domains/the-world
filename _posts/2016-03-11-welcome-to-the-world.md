@@ -3,12 +3,12 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: welcome to the world
-datePublished: '2016-03-11T23:03:11.011Z'
-dateModified: '2016-03-11T23:00:00.061Z'
-title: ''
+datePublished: '2016-03-19T22:12:19.080Z'
+dateModified: '2016-03-19T22:12:00.345Z'
+title: 'design and architecture '
 author: []
 sourcePath: _posts/2016-03-11-welcome-to-the-world.md
 published: true
