@@ -1,6 +1,6 @@
 name: 'the world '
 favicon: null
-layout_spectrum: 0.9746832046657801
+layout_spectrum: 0.34655
 typography_spectrum: 0.37228283239528537
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#fffeff'
+    - '#020204'
+    - '#aeaca0'
+    - '#795c3d'
+    - '#1c8466'
   brandStrength: 0.5625
   lightness: 0.375
   saturation: 0.5
