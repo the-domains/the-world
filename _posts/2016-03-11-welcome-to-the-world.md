@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: welcome to the world
-datePublished: '2016-03-19T22:12:19.080Z'
-dateModified: '2016-03-19T22:12:00.345Z'
+datePublished: '2016-03-21T20:13:06.291Z'
+dateModified: '2016-03-19T22:25:10.593Z'
 title: 'design and architecture '
 author: []
 sourcePath: _posts/2016-03-11-welcome-to-the-world.md
@@ -22,6 +22,8 @@ url: welcome-to-the-world/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/507a969c-f1e5-4f27-a18e-9cd5901c86a1.jpg)
+
 welcome to the world
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/828b9322-570d-4e8d-8dd8-05af93e62b64.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/23db5f20-018f-4292-923c-1f5071d717a8.jpg)
